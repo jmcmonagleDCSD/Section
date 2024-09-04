@@ -1,0 +1,35 @@
+img{
+    border-radius: 400px;
+    width: 250px;
+}
+div{
+    margin-top: 50px;
+}
+.packers{
+    background-color: green;
+    color: yellow;
+}
+.packers p{
+    width: 50%;
+    float: right;
+    background-color: black;
+}
+.packers h1{
+    color: yellow;
+    text-align: center;
+    border-bottom-style: solid;
+}
+.bears{
+    background-color: blue;
+    color: orange;
+    overflow: hidden;
+}
+.bears p{
+    width: 50%;
+    height: 200px;
+    padding: 25px;
+    float: left;
+}
+.bears img{ 
+    float: right;
+}
